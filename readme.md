@@ -1,6 +1,6 @@
 ## links
 
-[Medium](https://medium.com/@hanspinckaers/setting-up-vim-as-an-ide-for-python-773722142d1d)
+[Medium: Setting up VIM as an IDE for Python](https://medium.com/@hanspinckaers/setting-up-vim-as-an-ide-for-python-773722142d1d)
 
 ## 
 Follow the list in the link to install Neovim.
